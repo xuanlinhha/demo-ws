@@ -1,1 +1,6 @@
 Address: :8080
+MySql:
+  Address: 127.0.0.1:3306
+  Username: root
+  Passsword: example
+  DB: recordings
