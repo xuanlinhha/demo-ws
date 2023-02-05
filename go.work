@@ -3,4 +3,6 @@ go 1.19
 use (
     ./common
     ./example-1
+    ./client-go-test
+    ./algorithms
 )
